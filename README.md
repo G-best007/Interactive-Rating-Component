@@ -25,7 +25,7 @@
 ### Links
 
 - Solution URL: [Click to view project](https://github.com/G-best007/Interactive-Rating-Component)
-- Live Site URL: [Click to view project](https://your-live-site-url.com)
+- Live Site URL: [Click to view project](https://g-best007.github.io/Interactive-Rating-Component/)
 
 ## My process
 
